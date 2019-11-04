@@ -3,7 +3,7 @@ Slide page 1.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-- Morbi
+- ちゃんと観れるようになってホスィ
 - orci
 - lorem
 
